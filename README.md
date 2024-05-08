@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm SDC</h1>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">SDC-corp</h1>
+<h3 align="left"> ____ </h3>
 <p align="left">
 </p>
 
