@@ -1,9 +1,11 @@
-<h3 align="left">SDC-corp</h3>
+<h3 align="left">    SDC-corp    </h3>
 <p align="left">
-<a href="https://codepen.io/sdc-corp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sdc-corp" height="30" width="40" /></a>
-<a href="https://dev.to/sdc-corp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sdc-corp" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sdc-corp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sdc-corp" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sdc-corp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sdc-corp" height="30" width="40" /></a>
+<a href="https://codepen.io/sdccorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sdccorp" height="30" width="40" /></a>
+<a href="https://dev.to/sdccorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sdccorp" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sdccorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sdccorp" height="30" width="40" /></a>
+<a href="https://codesandbox.com/sdccorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sdccorp" height="30" width="40" /></a>
+<a href="https://dribbble.com/sdccorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sdccorp" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sdccorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sdccorp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
